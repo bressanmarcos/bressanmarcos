@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello everyone 👋
+
+![Stats](https://github-readme-stats.vercel.app/api?username=bressanmarcos&show_icons=true&theme=dark)
+[![Visits Badge](https://badges.pufler.dev/visits/bressanmarcos/bressanmarcos)](https://badges.pufler.dev)
 
 <!--
 **bressanmarcos/bressanmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
