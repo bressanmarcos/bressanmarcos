@@ -1,5 +1,7 @@
 ## It's me, Marcos! 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/bressanmarcos/bressanmarcos)](https://badges.pufler.dev)
+
 Welcome to my Github profile!
 
 We both know that Github is also an awesome showcase for personal and professional projects, but unfortunately there is no way to group them together.
@@ -10,19 +12,10 @@ Therefore, I strongly recommend you to check out [my portfolio website](https://
 - 🌱 I’m currently learning more about cloud platforms alternative to Amazon's AWS, namely Goodle Cloud Platform and Microsoft Azure.
 - 📫 How to reach me: Try my [Linkedin](https://linkedin.com/in/bressanmarcos) or my Discord (bressan#7490). 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bressanmarcos&show_icons=true&theme=dark)
 
-[![Visits Badge](https://badges.pufler.dev/visits/bressanmarcos/bressanmarcos)](https://badges.pufler.dev)
+## 📊 Here's some of my stats!
 
-
-
-<!--
-**bressanmarcos/bressanmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/bressanmarcos">
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=bressanmarcos&&show_icons=true&hide_title=true" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bressanmarcos&hide_title=true&hide_border=true&layout=compact" />
+</a>
